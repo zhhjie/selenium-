@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="demo1"
+    errors="0" failures="1" hostname="" id="" package="demo1" skipped="0"
+    tests="1" time="16.64" timestamp="Wed, 31 Oct 2018 09:49:05 GMT">
+  
+    <testcase name="login test" classname="demo1" time="16.64" assertions="5">
+
+    
+
+    
+
+    
+
+      <failure message="Expected element &lt;#headerDropDown&gt; to be visible">    at Object.login test (D:\seleniumDemo\tests\demo1.js:33:23)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
